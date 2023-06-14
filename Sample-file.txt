@@ -1,4 +1,4 @@
-this is a sample text and this file is to try out the git
+this is a sample text ädding details  and this file is to try out the git
 this is a test string
 this is additional text to create conflict
 Testing conflict from local
